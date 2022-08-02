@@ -1,0 +1,13 @@
+{
+  "name": "jasco-firmware",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jascoproducts/firmware",
+  "author": "Dominic Griesel <dominic.griesel@nabucasa.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@zwave-js/core": "^9.6.0",
+    "@zwave-js/shared": "^9.6.0",
+    "execa": "^5.1.1"
+  }
+}
